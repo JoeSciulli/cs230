@@ -1,0 +1,32 @@
+body{
+    font-family:'fantasy';
+    text-align: center;
+}
+
+p{
+    color: purple;
+}
+
+.about{
+ background: aliceblue;
+ padding: 8px;
+}
+img{
+    height: 125px;
+    width:125px;
+}
+.column{
+    float: left;
+    margin-right: 16px;
+    margin:10px;
+    width: 22%;
+
+}
+.card{
+    box-shadow:6px 4px 8px 0 #b3b3b3f5;
+    padding: 0 16px 0 16px;
+    background: aliceblue;
+}
+.about{
+    color: purple;
+}

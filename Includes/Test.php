@@ -11,3 +11,7 @@
 
 </body>
 </html>
+
+git branch -M main
+git remote add origin https://github.com/JoeSciulli/cs230.git
+git push -u origin main
