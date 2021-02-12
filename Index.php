@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="css/about.css">
 
     <div class="about">
-        <h1>Who Is The True Heros of The Galaxy
+        <h1>Who Are The True Heros of The Galaxy
             <p>The Best Site For Debating and Reviewing Marvel and Starwars</p>
         </h1>
     </div>
