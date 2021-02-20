@@ -41,7 +41,7 @@ else{
                 mysqli_stmt_store_results($stmt);
                 $sqlImg = "INSERT INTO profiles (uname, fname) VALUES ('$username','$fname')";
                 mysqli_query($conn, $sqlImg);
-                hearder("Location ../signup.php?signup=success");
+                hearder("Location: ../signup.php?signup=success");
                 exit();
             }
         }
@@ -52,6 +52,6 @@ else{
 }
 
 }else{
-    hearder("Location ../signup.php?signup");
+    hearder("Location ../signup.php?");
     exit();   
 }
