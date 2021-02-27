@@ -3,12 +3,12 @@ require "includes/header.php"
 ?>
 
 <main>
-    <link rel='stylesheet' href="../css/signup">
+<link rel='stylesheet' href="../css/signup">
     <div class="bg-cover">
         <div class="h-100 container center-me">
             <div class="my-auto">
                 <div class='signup-form'>
-                    <form action="Includes/signup-helper.php" method="post">
+                    <form action="includes/signup-helper.php" method="post">
 
 
                         <h1 class="h3 mb-3 font-weight-normal">Please sign up</h1>
@@ -56,6 +56,5 @@ require "includes/header.php"
 
 
     </div>
-
-
+    
 </main>

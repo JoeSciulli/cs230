@@ -1,9 +1,9 @@
 <?php
 
 $servename = "localhost";
-$DBuname = "phpmyadmin";
-$DBPass = "Sadiejoe73";
-$DBname = "cs230_sciulli";
+$DBuname = "root";
+$DBPass = "";
+$DBname = "cs230";
 
 $conn = mysqli_connect($servename, $DBuname, $DBPass, $DBname);
 
