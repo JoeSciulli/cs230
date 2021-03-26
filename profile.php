@@ -1,7 +1,7 @@
 <?php
 
-require 'includes/header/php';
-require 'includes/dphandler.php';
+require 'includes/header.php';
+
 ?>
 
 <main>

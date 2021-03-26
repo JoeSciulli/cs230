@@ -1,5 +1,6 @@
 <?php
-require'includes/header.php';
+require 'includes/header.php'; 
+
 ?>
 <main>
     <link rel="stylesheet" hrefs="css/login.css">
